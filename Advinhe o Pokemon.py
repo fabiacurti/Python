@@ -1,7 +1,7 @@
 import random
 
 def preencher_lista_pokemon():
-    lista_pokemon = ['Pikachu', 'Charizard', 'Squirtle', 'Bulbasaur', 'Jigglypuff', 'Mewtwo', 'Snorlax', 'Eevee', 'Gengar', 'Machamp']
+    lista_pokemon = ['Pikachu', 'Charizard', 'Squirtle', 'Bulbasaur', 'Jigglypuff', 'Mewtwo', 'Snorlax', 'Eevee', 'Gengar', 'Machamp','Arcanine']
     return lista_pokemon
 
 def escolher_palavra(lista_pokemon):
